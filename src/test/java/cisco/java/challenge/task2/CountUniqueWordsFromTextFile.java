@@ -1,5 +1,6 @@
-package com.oshen.tasks.task2;
+package cisco.java.challenge.task2;
 
+import cisco.java.challenge.task2.StreamMain;
 import org.junit.Test;
 
 import java.io.IOException;

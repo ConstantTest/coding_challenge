@@ -1,4 +1,4 @@
-package com.oshen.tasks.task2;
+package cisco.java.challenge.task2;
 
 import java.io.IOException;
 import java.nio.file.Files;
